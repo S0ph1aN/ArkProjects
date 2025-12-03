@@ -30,7 +30,7 @@ struct Index {
 }
 @Preview
 @Component
-struct Banner(){
+struct Banner{
   build(){
 
   }
